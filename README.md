@@ -17,9 +17,16 @@ You can use `get_domain_info` function to get various information about a domain
 
 To install this tool, simply follow these steps:
 
-1. `git clone https://github.com/yourusername/yourproject.git`
-2. `cd yourproject`
-3. `pip install -r requirements.txt`
+1. ```
+    git clone https://github.com/yourusername/yourproject.git
+   ```
+   ```
+2.     cd yourproject
+   ```
+   
+   ```
+3.     pip install -r requirements.txt
+   ```
 
 ## Usage
 
@@ -52,8 +59,3 @@ I'd love to hear from you!
 These articles provide valuable insights and practical examples of domain information gathering. They can be a great resource for anyone interested in web security.
 
 Remember, always stay updated and keep learning!
-
-    ```
-    This is some copyable text.
-    It can even span multiple lines!
-    ```
