@@ -31,8 +31,12 @@ pip install -r requirements.txt
 
 To use this tool, simply run the script with the appropriate options. For example:
 
-1. `python3 yourscript.py -d yourdomain.com`
-2. `python3 yourscript.py -w wordlist.txt -o output.txt`
+```
+python3 yourscript.py -d yourdomain.com
+```
+```
+python3 yourscript.py -w wordlist.txt -o output.txt
+```
 
 You can also view the help menu of the script by using the `-h` option.
 
