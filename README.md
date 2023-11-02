@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # DomainDossier
 
 Are you interested in web security and want to test your skills against potential domain information gathering? If so, you've come to the right place! This project is a comprehensive Python script, meticulously designed for the purpose of probing domain information. Whether you're a beginner or an expert, this tool will help you discover new ways to gather domain information and access restricted resources.
@@ -59,5 +59,5 @@ For further reading and understanding, here are some articles that provide more 
 These articles provide valuable insights and practical examples of domain information gathering. They can be a great resource for anyone interested in web security.
 
 Remember, always stay updated and keep learning!
-```
+
 
