@@ -7,11 +7,23 @@ Are you interested in web security and want to test your skills against potentia
 
 ## Features
 
-This tool offers a unique functionality for domain information gathering.
+1. **Domain Information Retrieval**: It retrieves and displays detailed information about a specific domain. The information includes:
+   - Nameservers
+   - Creation date
+   - Expiration date
+   - HTTP status code
+   - IP address
+   - Web server
+   - Hosting provider
+   - Real hostname
 
-### get_domain_info function
+2. **Single Domain or Wordlist Input**: The script allows you to input either a single domain or a wordlist file containing multiple domains. This is useful for batch processing of multiple domains.
 
-You can use `get_domain_info` function to get various information about a domain such as nameservers, creation date, expiration date, http status code, ip address, web server, hosting provider and real hostname.
+3. **Pretty Output**: The script uses the PrettyTable library to format the output in a neat, tabular structure, making it easy to read and understand.
+
+4. **Output to File**: The script provides an option to save the output to a file. This is useful for record-keeping and future reference.
+
+5. **Error Handling**: The script includes error handling mechanisms to manage exceptions and provide useful feedback when an error occurs.
 
 ## Installation
 
