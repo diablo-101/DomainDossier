@@ -38,7 +38,7 @@ Here is a screenshot of the tool:
 
 ## Contribution
 
-If you want to contribute to this project, feel free to fork it and submit a pull request. You can also report any issues or suggestions on the Issues page.
+If you want to contribute to this project, feel free to fork it and submit a pull request. You can also report any issues or suggestions on the [Issues]([URL](https://github.com/diiablo00/DomainDossier/issues)) page.
 
 ## Contact
 
@@ -48,13 +48,6 @@ If you have any questions or feedback, you can follow me on:
 
 I'd love to hear from you!
 
-## Articles
-
-For further reading and understanding, here are some articles that provide more insights into domain information gathering:
-
-- [Your Article 1](https://yourarticle.com)
-- [Your Article 2](https://yourarticle.com)
-<!-- Add more articles as needed -->
 
 These articles provide valuable insights and practical examples of domain information gathering. They can be a great resource for anyone interested in web security.
 
