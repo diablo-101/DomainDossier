@@ -30,10 +30,10 @@ Are you interested in web security and want to test your skills against potentia
 To install this tool, simply follow these steps:
 
 ```
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/diiablo00/DomainDossier
 ```
 ```
-cd yourproject
+cd DomainDossier
 ```
 ```
 pip install -r requirements.txt
@@ -44,10 +44,10 @@ pip install -r requirements.txt
 To use this tool, simply run the script with the appropriate options. For example:
 
 ```
-python3 yourscript.py -d yourdomain.com
+python DomainDossier.py -d yourdomain.com
 ```
 ```
-python3 yourscript.py -w wordlist.txt -o output.txt
+python DomainDossier.py -w wordlist.txt -o output.txt
 ```
 
 You can also view the help menu of the script by using the `-h` option.
