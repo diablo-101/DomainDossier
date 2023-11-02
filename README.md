@@ -17,15 +17,15 @@ You can use `get_domain_info` function to get various information about a domain
 
 To install this tool, simply follow these steps:
 
-1. ```
-    git clone https://github.com/yourusername/yourproject.git
-   ```
-   ```
-2.     cd yourproject
-   ```
-   ```
-3.     pip install -r requirements.txt
-   ```
+```
+git clone https://github.com/yourusername/yourproject.git
+```
+```
+cd yourproject
+```
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 
