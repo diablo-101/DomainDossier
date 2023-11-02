@@ -55,8 +55,8 @@ You can also view the help menu of the script by using the `-h` option.
 ## Demo
 
 Here is a screenshot of the tool:
-
-*Screenshot goes here...*
+![Screenshot_2023-11-02_16_19_57](https://github.com/diiablo00/DomainDossier/assets/140319882/a3c24445-d4ee-4723-8e84-7dfdf7fb1f6b)
+![Screenshot_2023-11-02_16_24_35](https://github.com/diiablo00/DomainDossier/assets/140319882/c63d5736-c36f-47ed-a256-313b86f816c8)
 
 ## Contribution
 
@@ -70,8 +70,3 @@ If you have any questions or feedback, you can follow me on:
 - Facebook: [Mahmoud Salah](https://www.facebook.com/profile.php?id=100044106499352)
 
 I'd love to hear from you!
-
-
-These articles provide valuable insights and practical examples of domain information gathering. They can be a great resource for anyone interested in web security.
-
-Remember, always stay updated and keep learning!
