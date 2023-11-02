@@ -23,7 +23,6 @@ To install this tool, simply follow these steps:
    ```
 2.     cd yourproject
    ```
-   
    ```
 3.     pip install -r requirements.txt
    ```
