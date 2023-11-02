@@ -38,7 +38,7 @@ Here is a screenshot of the tool:
 
 ## Contribution
 
-If you want to contribute to this project, feel free to fork it and submit a pull request. You can also report any issues or suggestions on the [Issues]([URL](https://github.com/diiablo00/DomainDossier/issues)) page.
+If you want to contribute to this project, feel free to fork it and submit a pull request. You can also report any issues or suggestions on the [Issues]([URL](https://github.com/diiablo00/DomainDossier/issues) page.
 
 ## Contact
 
