@@ -65,8 +65,9 @@ If you want to contribute to this project, feel free to fork it and submit a pul
 ## Contact
 
 If you have any questions or feedback, you can follow me on:
-- Twitter: your_twitter_handle
-- Instagram: your_instagram_handle
+- Twitter: [diablo0_diablo](https://twitter.com/diablo0_diablo)
+- Instagram: [diablo0_diablo](https://www.instagram.com/diablo0_diablo)
+- Facebook: [Mahmoud Salah](https://www.facebook.com/profile.php?id=100044106499352)
 
 I'd love to hear from you!
 
